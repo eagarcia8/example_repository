@@ -1,0 +1,6 @@
+~ = represents the current user home folder
+.. = represents the parent folder of the current folder.
+. = the folder itself
+/ = root folder of the file system.
+cd = "change directory"
+ls = "list items in directory"
